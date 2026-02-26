@@ -1,4 +1,5 @@
 # exploratory-testing
+Proyecto práctico de exploratory testing como parte de mi portafolio QA Junior.
 Notas de pruebas exploratorias y aprendizajes.
 
 Documentación de sesiones de testing exploratorio realizadas sobre aplicaciones web simuladas.
