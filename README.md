@@ -1,10 +1,32 @@
 # exploratory-testing
-Proyecto práctico de exploratory testing como parte de mi portafolio QA Junior.
+Exploratory testing documentation project created as part of my Junior QA portfolio.
 
-Notas de pruebas exploratorias y aprendizajes.
+## Project Description
+This repository contains exploratory testing sessions focused on investigating application behavior through test charters, guided exploration, and observation of unexpected behavior.
 
-Documentación de sesiones de testing exploratorio realizadas sobre aplicaciones web simuladas.
+This sessions document exploratory areas, test actions, observed results, cross-browser comparisons, and conclusions.
 
-Se detallan hipótesis, áreas de riesgo, comportamientos inesperados y mejoras detectadas durante la exploración del sistema.
+## Contents
+- Exploratory testing sessions
+- Reusable exploratory sessions template
+- Test charters and exploration objectives
+- Session results and observations
 
-Objetivo: demostrar capacidad de análisis dinámico, detección de defectos y evaluación de experiencia de usuario.
+## Tools
+- GitHub
+- Notion
+- Safari
+- Firefox
+
+## Skills Demonstrated
+- Exploratory testing
+- Test charter design
+- Dynamic test exploration
+- Browser and UI behavior testing
+- Cross-browser comparison
+- Observation and documentation of test results
+- Identification of unexpected behavior
+- Technical communication
+
+## Learning Objective
+The objective of this repository is to demonstrate a practical foundation in exploratory testing and structured test session documentation as part of my preparation for QA Junior opportunities.
