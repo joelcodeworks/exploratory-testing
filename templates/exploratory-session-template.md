@@ -10,7 +10,7 @@
 [What the exploratory session aims to identify or investigate.]
 
 ## Scope
-[Application areas, features, behavior, or risks included in the explanation.]
+[Application areas, features, behaviors, or risks included in the exploration.]
 
 ## Environment
 Operating System: [Environment]
