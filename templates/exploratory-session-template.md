@@ -1,1 +1,32 @@
-#
+# Exploratory Session Template
+
+## Session ID
+[ETS-XXX]
+
+## Charter / Mission
+[Explore the target area to discover specific information, risks, unexpected behavior, or other relevant findings.]
+
+## Objective
+[What the exploratory session aims to identify or investigate]
+
+## Scope
+[Application areas, features, behavior, or risks included in. the explanation.]
+
+## Environment
+Operating System: [Environment]
+Browsers: [Browsers(s)]
+
+## Exploratory Areas
+[List the areas, behavior, or test ideas to explore.]
+
+## Session Results
+[Document the actions performed and the observed behavior.]
+
+## Cross-Browser Comparison
+[Compare the observed behavior across browsers when applicable.]
+
+## Issues / Observations
+[Document unexpected behavior, anomalies, notable observations, or relevant findings.]
+
+## Conclusion
+[Sumarize the main findings and possible areas for further exploration.]
