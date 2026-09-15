@@ -4,11 +4,11 @@ Exploratory testing documentation project created as part of my Junior QA portfo
 ## Project Description
 This repository contains exploratory testing sessions focused on investigating application behavior through test charters, guided exploration, and observation of unexpected behavior.
 
-This sessions document exploratory areas, test actions, observed results, cross-browser comparisons, and conclusions.
+These sessions document exploratory areas, test actions, observed results, cross-browser comparisons, and conclusions.
 
 ## Contents
 - Exploratory testing sessions
-- Reusable exploratory sessions template
+- Reusable exploratory session template
 - Test charters and exploration objectives
 - Session results and observations
 
@@ -29,4 +29,4 @@ This sessions document exploratory areas, test actions, observed results, cross-
 - Technical communication
 
 ## Learning Objective
-The objective of this repository is to demonstrate a practical foundation in exploratory testing and structured test session documentation as part of my preparation for QA Junior opportunities.
+The objective of this repository is to demonstrate a practical foundation in exploratory testing and structured test session documentation as part of my preparation for Junior QA opportunities.
